@@ -17,7 +17,7 @@ Database: [Google Cloud MySql](https://cloud.google.com/sql)
 <br>
 User Authentication: [Firebase Authentication](https://firebase.google.com/docs/reference/js/firebase.auth.Auth)
 ## Authors:
-[Ayala Bar Sheshet](https://github.com/ayalabarsheshet)
+[Ayala revivo](https://github.com/AYALAREVIVO)
 <br>
 [Batsheva Rich](https://github.com/BatshevaRich)
 <br>
